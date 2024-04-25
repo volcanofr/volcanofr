@@ -181,3 +181,5 @@ If you are using either of these languages at the same time please be sure to us
 | OCaml                   | ml                     |
 | Lasso                   | ls                     |
 | LiveScript              | ls                     |
+
+> Source: [highlightjs](https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md)
