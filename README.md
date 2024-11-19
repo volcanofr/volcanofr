@@ -31,3 +31,10 @@ I am also a graduated [La Mache](https://www.ecolelamache.org/ 'La Mache School'
 ![volcanofr's GitHub followers](https://img.shields.io/github/followers/volcanofr)
 ![volcanofr's GitHub stars](https://img.shields.io/github/stars/volcanofr)
 ![volcanofr's GitHub sponsors](https://img.shields.io/github/sponsors/volcanofr)
+
+### Current status:
+
+![am I online?](https://api.statusbadges.me/badge/status/589383722759880705)
+![am I playing?](https://api.statusbadges.me/badge/playing/589383722759880705)
+![am I programming?](https://api.statusbadges.me/badge/vscode/589383722759880705)
+[![am I listenning to music?](https://api.statusbadges.me/badge/spotify/589383722759880705)](https://api.statusbadges.me/openspotify/589383722759880705) (click me to go to the song, if one is playing!)
