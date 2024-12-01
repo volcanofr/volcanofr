@@ -1,13 +1,13 @@
 # Hello there,
 I'm [volcanofr](https://discord.com/users/589383722759880705 'volcanofr\'s Discord profile') 👀, aka. :
-- a French 🥐 17yo (`26/10/2006`) boy ;
+- a French 🥐 18yo (`26/10/2006`) boy ;
 - an aspiring electrician/automatic engineer ⚡ ;
 - a developer currently learning multiple languages ⚙️ ;
 - a small graphist 🖌️ and pixel-artist ;
 - a chess ♟️ & Minecraft player ;
 - and way more...
 
-I am also a graduated [La Mache](https://www.ecolelamache.org/ 'La Mache School') & an BUT GEII (Electrical Engineering and Industrial Computing) student at [Grenoble IUT1](https://iut1.univ-grenoble-alpes.fr/ 'Grenoble University - IUT1') ([ÉNEPS group](https://eneps.univ-grenoble-alpes.fr/l-ecole/ 'National School of Higher Professional Education')).
+I am also a graduate from [La Mache](https://www.ecolelamache.org/ 'La Mache School') & an BUT GEII (Electrical Engineering and Industrial Computing) student at [Grenoble IUT1](https://iut1.univ-grenoble-alpes.fr/ 'Grenoble University - IUT1') ([ÉNEPS group](https://eneps.univ-grenoble-alpes.fr/l-ecole/ 'National School of Higher Professional Education')).
 
 ### My socials:
 
